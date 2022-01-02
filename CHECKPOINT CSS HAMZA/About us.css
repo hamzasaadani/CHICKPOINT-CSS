@@ -1,0 +1,47 @@
+
+.partie1 {width: 100%; display: flex; align-items: center; justify-content: space-around;}
+.icone {width: 100%; display: flex; justify-content: center;}
+.message {color:#00C3A5; display: flex; justify-content: center;}
+.paragraphe {width: 100%; height: 40px; display: flex; justify-content: space-between; flex-direction: row; justify-content: center;}
+.paragraphe p {width: 20%;}
+.partie3 {width: 100%; margin-top: 140px; display: flex; justify-content: space-between; flex-direction: row; justify-content: center;}
+.partie31 {width: 300px; height: 400px; background-color: rgb(98, 201, 158); display: flex; flex-direction: column;  margin: 30px; color: white;} 
+.partie32 {width: 300px; height: 400px; background-color: rgb(44, 163, 179); display: flex; flex-direction: column;  margin: 30px;color: white; }
+.partie33 {width: 300px; height: 400px; background-color: rgb(136, 136, 161); display: flex; flex-direction: column;  margin: 30px;color: white; }
+.image {margin: 20px;}
+.texte {margin-left: 20px;}
+.message1 {color:#00C3A5; display: flex; justify-content: start; font-size: 25px;}
+.partie4 {width: 60%; display: flex; justify-content: center; flex-direction: row; margin-left: 430px;}
+
+
+.Bonde {width: 100%; background-color: rgb(232, 250, 241); display: flex; align-items: center; justify-content: center; margin-top: 30px;}
+.Bande1 {width: 250px; height: 250px; background-color: rgb(255, 255, 255); display: flex; flex-direction: column;  margin: 30px;}
+.Bande2 {width: 250px; height: 250px; background-color: rgb(255, 255, 255); display: flex; flex-direction: column;  margin: 30px;}
+.Bande3 {width: 250px; height: 250px; background-color: rgb(255, 255, 255); display: flex; flex-direction: column;  margin: 30px;}
+.Bande4 {width: 250px; height: 250px; background-color: rgb(255, 255, 255); display: flex; flex-direction: column;  margin: 30px;}
+.BondeBonde1 {display: flex;flex-direction: column; justify-content: center; margin-top:40px;}
+.BondeBonde2 {display: flex;flex-direction: column; justify-content: center; margin-block-end: 40px;}
+
+.textetexte {display: flex;flex-direction: column; justify-content: center; margin: 20px;}
+.texte1 {margin: 20px; text-align: center; color: #00C3A5; font-size: 25px; font-style: normal; font-weight: initial;}
+.texte2 {margin: 20px; text-align: center; font-size: 14px; color: gray;;}
+
+.iconee {width: 400px; height: 400px;}
+.textex {margin-left: 20px; color: #00C3A5; font-size: 36px;}
+.x {margin-left: 20px;display: flex; justify-content: center; text-align: center; color: #00C3A5; margin-top: 80px ;}
+.y {margin-left: 20px; color: gray; font-size: 14px; display: flex; justify-content: center; text-align: center; margin: 30px ; margin-block-end: 80px;}
+
+
+.PartieImage1 {width: 100%; display: flex; flex-direction: row; justify-content: space-between; justify-content: center; margin: 30px; }
+.PartieImage2 {width: 100%; display: flex; flex-direction: row; justify-content: space-between; justify-content: center; margin: 30px; }
+.PartieImage3 {width: 100%; display: flex; flex-direction: row; justify-content: space-between; justify-content: center; margin: 30px; }
+
+.PartieImage11 {width: 250px; height: 300px; background-color: rgba(252, 252, 252, 0.979); display: flex; flex-direction: column;  margin: 30px; opacity: 50px;}
+.PartieImage21 {width: 250px; height: 300px; background-color: rgba(252, 252, 252, 0.979); display: flex; flex-direction: column;  margin: 30px;}
+.PartieImage31 {width: 250px; height: 300px; background-color: rgba(252, 252, 252, 0.979); display: flex; flex-direction: column;  margin: 30px;}
+
+.boutton {width: 100%; display: flex; align-items: center; justify-content: space-around;}
+
+.partie5 {margin: 20px; text-align: center; font-size: 25px; font-style: normal; font-weight: initial;}
+.seeall {background-color: rgba(8, 115, 255, 0.911); color: white; padding: 15px 30px;}
+.SEE {background-color: rgba(8, 115, 255, 0.911); color: white; padding: 5px 15px;}
